@@ -4,6 +4,7 @@
 #### projet python
 
 ##### Violette Lefranc
+##### Quentin Da Silva
 
 ---
 
